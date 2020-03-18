@@ -16,7 +16,7 @@
 ==================================================*/
 body {
           font-family:'Microsoft JhengHei','Open Sans', sans-serif;
-    font-size:14px;
+    font-size:16px;
   background-color:rgb(27, 110, 235);
 }
 
@@ -62,6 +62,7 @@ p {
     font-weight:300;
     line-height:30px;
     padding-bottom:20px;
+    font-size: 16px;
 }
 
 .space-free {
