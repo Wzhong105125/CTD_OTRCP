@@ -17,7 +17,7 @@
 body {
           font-family:'Microsoft JhengHei','Open Sans', sans-serif;
     font-size:16px;
-  background-color:rgb(27, 110, 235);
+  background-color:rgb(180,80,95);
 }
 
 .nav a {
@@ -50,8 +50,8 @@ h2 {
      text-transform:uppercase;
 }
 h3 {
-    line-height:30px;
-    padding-bottom:20px;
+    line-height:20px;
+    padding-bottom:3px;
 }
 h4 {
     line-height:40px;
@@ -104,6 +104,12 @@ section {
     color:#fff!important;
     padding:5px 20px 150px 20px;
 }
+.head-sub-sub-main {
+    font-size:30px !important;
+    font-weight:500!important;
+    color:#fff!important;
+    padding:0px 20px 10px 20px;
+}
 
 
 /*=======================================
@@ -125,7 +131,7 @@ nav {
 }
 
 .navbar-inverse {
-background-color: #f3862d;
+background-color: #F4BC51;
 border-color: #000000;
 min-height: 80px;
 padding-top: 10px;
