@@ -17,7 +17,7 @@
 body {
           font-family:'Microsoft JhengHei','Open Sans', sans-serif;
     font-size:16px;
-  background-color:rgb(180,80,95);
+  background-color:rgb(146, 209, 201);
 }
 
 .nav a {
@@ -131,7 +131,7 @@ nav {
 }
 
 .navbar-inverse {
-background-color: #F4BC51;
+background-color: rgb(245, 191, 43);
 border-color: #000000;
 min-height: 80px;
 padding-top: 10px;
