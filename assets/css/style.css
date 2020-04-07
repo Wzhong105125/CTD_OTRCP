@@ -18,6 +18,15 @@ body {
           font-family:'Microsoft JhengHei','Open Sans', sans-serif;
     font-size:16px;
   background-color:rgb(146, 209, 201);
+  
+}
+
+#second-home{
+    background-image: url(../../img/cover1.png); 
+    background-repeat: no-repeat; 
+    height: 10em; 
+    width: 100%;
+    background-position: center;
 }
 
 .nav a {
